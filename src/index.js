@@ -2,7 +2,7 @@ import houseMarketplace from './projects/house.png'
 import supportDesk from './projects/desk.png'
 import githubFinder from './projects/githubb.png'
 import userTracker from './projects/tracker.png'
-
+import gymGuide from './projects/gym.png'
 
 
 
@@ -35,4 +35,11 @@ export const projects = [
       link: 'https://usertracker.netlify.app/',
       image: userTracker,
     },
+    {
+      title: 'Gym Guide',
+      description:
+        'Gym Guide is a full-stack web application built with the MERN stack, designed to help users browse detailed workout exercises and create personalized fitness routines. The platform enables users to create, read, update, and delete workout routines while maintaining authentication and authorization for secure access.',
+      link: 'https://gym-guide-nu.vercel.app/',
+      image: gymGuide,
+    }
   ];
