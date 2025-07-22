@@ -41,14 +41,7 @@ export const projects = [
       title: 'Gym Guide',
       description:
         'Gym Guide is a full-stack web application built with the MERN stack, designed to help users browse detailed workout exercises and create personalized fitness routines. The platform enables users to create, read, update, and delete workout routines while maintaining authentication and authorization for secure access.',
-      link: 'https://gym-guide-nu.vercel.app/',
+      link: 'https://gym-guide542433.netlify.app/',
       image: gymGuide,
     },
-    {
-      title: 'Chat App',
-      description:
-        'A modern real-time MERN chat app featuring instant messaging, secure authentication, one-on-one chats, Powered by Socket.io for seamless real-time communication, with a sleek and responsive UI for an intuitive user experience.',
-      link: 'https://chat-app52684.netlify.app/',
-      image: chatApp,
-    }
   ];
