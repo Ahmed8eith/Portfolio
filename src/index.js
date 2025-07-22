@@ -4,6 +4,9 @@ import githubFinder from './projects/githubb.png'
 import userTracker from './projects/tracker.png'
 import gymGuide from './projects/gym.png'
 import chatApp from './projects/chat-app.png'
+import orcaLogic from './projects/orcaLogic.png'
+import museBeauty from './projects/museBeauty.png'
+
 
 
 
@@ -44,4 +47,18 @@ export const projects = [
       link: 'https://gym-guide542433.netlify.app/',
       image: gymGuide,
     },
+    {
+      title: 'Orca Logic',
+      description:
+        'A frontend project works as a marketing tool with creative design and animations.',
+      link: 'https://orca-logic.netlify.app/',
+      image: orcaLogic,
+    },
+    {
+      title: 'Muse Beauty',
+      description:
+        'An E-commerce frontend project that showcases beauty products with a user-friendly interface and smooth navigation.',
+      link: 'https://muse-beauty.netlify.app/',
+      image: museBeauty,
+    }
   ];
