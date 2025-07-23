@@ -16,7 +16,7 @@ export const projects = [
       title: 'House Marketplace',
       description:
         'A dynamic web application designed to streamline the process of buying, selling, and renting properties. The platform allows authenticated users to seamlessly upload property listings, complete with images, detailed descriptions, and pricing information. Users can also browse and view listings posted by others, creating an interactive and efficient marketplace for real estate transactions.',
-      link: 'https://67544f85e257911490b16356--beamish-cascaron-d7daed.netlify.app/',
+      link: 'https://house-marketplace-xi-wine.vercel.app/',
       image: houseMarketplace,
     },
     {
